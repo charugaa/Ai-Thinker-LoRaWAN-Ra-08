@@ -10,6 +10,7 @@
 #include "tremo_delay.h"
 #include "rtc-board.h"
 #include "custom_payload.h" // Ukljucujemo header fajl iz direktorijuma inc
+#include "flash_credentials.h"
 
 extern int app_start(void);
 
