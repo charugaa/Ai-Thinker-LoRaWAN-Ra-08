@@ -30,7 +30,7 @@
 
 #warning "No active region defined, LORAMAC_REGION_CN470 will be used as default."
 
-#define ACTIVE_REGION LORAMAC_REGION_CN470
+#define ACTIVE_REGION LORAMAC_REGION_EU433
 
 #endif
 

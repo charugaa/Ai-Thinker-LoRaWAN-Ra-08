@@ -9,6 +9,7 @@
 #include "tremo_pwr.h"
 #include "tremo_delay.h"
 #include "rtc-board.h"
+#include "custom_payload.h" // Ukljucujemo header fajl iz direktorijuma inc
 
 extern int app_start(void);
 
