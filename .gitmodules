@@ -1,0 +1,3 @@
+[submodule "tools/AiThinker-Open-Ra-08"]
+	path = tools/toolchain
+	url = https://github.com/charugaa/ra08_custom.git
