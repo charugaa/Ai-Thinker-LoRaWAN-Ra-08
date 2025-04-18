@@ -3,7 +3,7 @@
  *
  * \brief     Custom payload sending module for LoRaWAN
  *
- * \author    Your Name
+ * \author    charugaa
  *
  */
 
