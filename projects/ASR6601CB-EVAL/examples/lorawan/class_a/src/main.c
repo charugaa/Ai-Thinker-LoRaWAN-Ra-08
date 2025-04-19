@@ -11,6 +11,7 @@
 #include "rtc-board.h"
 #include "custom_payload.h" // Ukljucujemo header fajl iz direktorijuma inc
 #include "flash_credentials.h"
+#include "uart_commands.h"
 
 extern int app_start(void);
 
